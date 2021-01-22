@@ -1,0 +1,42 @@
+
+Truong Vu, covid, 01/21/2021
+
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+	<title> Department of Public Health </title>
+</head>
+
+<header> 
+
+<h1>Department of Public Health<h2>
+
+<p>Keeping our community safe and protected<p>
+
+<h2>LOGO</h2> 
+
+</header>
+
+<!--Promote awareness and accessibility to COVID-19 testing and immunizations-->
+
+<main>
+
+<body>
+	<title> Announcements </title>
+</body>
+	
+<nav> 
+
+<!--side bars Testing scheduling, Vaccination scheduling, Resources, Contact us-->
+
+</nav>
+
+</main>
+
+<!--ending of main page-->
+
+<footer> &#169 Copyright 2021. All Rights Reserved </footer>
+
+</html>
